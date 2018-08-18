@@ -1,0 +1,22 @@
+{
+  "name": "gridworld",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehZevo/gridworld.git"
+  },
+  "author": "tehZevo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tehZevo/gridworld/issues"
+  },
+  "homepage": "https://github.com/tehZevo/gridworld#readme",
+  "dependencies": {
+    "ndarray": "^1.0.18"
+  }
+}
